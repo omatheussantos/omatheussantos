@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A passionate data analyst from Brazil</h3>
 
 
 - 🌱 I’m currently learning **Data Engineering**
