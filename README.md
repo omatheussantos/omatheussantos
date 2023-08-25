@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/omatheussantos/](https://www.linkedin.com/in/omatheussantos/)
 
-- ⚡ Fun fact **I think I'm a data detective**
+- ⚡ Fun fact **I'm a data detective**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omatheussantos&show_icons=true&locale=en&layout=compact" alt="omatheussantos" /></p>
